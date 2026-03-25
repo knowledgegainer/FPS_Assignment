@@ -2,7 +2,7 @@ FPS Assignment (Unreal Engine 5)
 
 Overview
 
-This project is a simple FPS-based system built in Unreal Engine 5 using C++ and Blueprints.
+This project is a simple FPS-based system built in Unreal Engine 5 using C++.
 
 The main objective was to:
 
